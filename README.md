@@ -10,3 +10,5 @@ CONS:
 1. The circuit can take input upto 4 digits only i.e; the highest input you can give is 9999
 2. The solution for division of two numbers is displayed in two output displays seperately. One for quotient and other one to display remainder.
 3. Subtraction can only done from higher number to lower number.
+
+;)
